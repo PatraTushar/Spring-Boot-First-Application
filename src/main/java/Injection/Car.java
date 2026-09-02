@@ -26,7 +26,7 @@ public class Car {
     }
 
 
-    public void  drive(){
+    public void drive() {
 
         engine.start();
         tyre.rotate();
@@ -35,3 +35,5 @@ public class Car {
         System.out.println(" car is driving ");
     }
 }
+
+
