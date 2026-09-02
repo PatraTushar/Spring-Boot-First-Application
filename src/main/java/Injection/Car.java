@@ -37,3 +37,10 @@ public class Car {
 }
 
 
+
+// order to execute
+// 1. Constructor injection
+//        ↓
+//2. Field injection
+//        ↓
+//3. Setter / method injection
