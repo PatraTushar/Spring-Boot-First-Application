@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class DatabaseConnection implements InitializingBean, DisposableBean {
 
-    @Value("localhost:1521")
+    @Value("localhost:152   1")
     private String url;
     private String username;
     private String password;
